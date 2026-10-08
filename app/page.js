@@ -44,7 +44,7 @@ export default function Home() {
         }}
       >
         <h1 style={{ fontSize: "36px", marginBottom: "10px" }}>
-          AI Customer Support
+          AI Customer Support AI
         </h1>
 
         <p style={{ color: "#666", marginBottom: "30px" }}>
